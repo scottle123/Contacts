@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Instructions
+1. Clone the github.
+2. Change working directory to contacts-app.
+3. Enter npm install in the terminal.
+4. Enter npm start to run the application.
+
 ## Available Scripts
 
 In the project directory, you can run:
